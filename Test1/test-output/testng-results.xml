@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9678" started-at="2019-11-23T19:24:12 EET" finished-at="2019-11-23T19:24:21 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9678" started-at="2019-11-23T19:24:12 EET" finished-at="2019-11-23T19:24:21 EET">
+      <class name="BigSelenium.test.BigHomeTaskTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:BigSelenium.test.BigHomeTaskTest@185d8b6]" name="setUp" is-config="true" duration-ms="668" started-at="2019-11-23T19:24:12 EET" finished-at="2019-11-23T19:24:12 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CreateBookTest()[pri:1, instance:BigSelenium.test.BigHomeTaskTest@185d8b6]" name="CreateBookTest" duration-ms="2419" started-at="2019-11-23T19:24:12 EET" finished-at="2019-11-23T19:24:15 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateBookTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:BigSelenium.test.BigHomeTaskTest@185d8b6]" name="tearDown" is-config="true" duration-ms="68" started-at="2019-11-23T19:24:15 EET" finished-at="2019-11-23T19:24:15 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:BigSelenium.test.BigHomeTaskTest@185d8b6]" name="setUp" is-config="true" duration-ms="583" started-at="2019-11-23T19:24:15 EET" finished-at="2019-11-23T19:24:15 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FindTheBook()[pri:2, instance:BigSelenium.test.BigHomeTaskTest@185d8b6]" name="FindTheBook" duration-ms="1780" started-at="2019-11-23T19:24:15 EET" finished-at="2019-11-23T19:24:17 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindTheBook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:BigSelenium.test.BigHomeTaskTest@185d8b6]" name="tearDown" is-config="true" duration-ms="67" started-at="2019-11-23T19:24:17 EET" finished-at="2019-11-23T19:24:17 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:BigSelenium.test.BigHomeTaskTest@185d8b6]" name="setUp" is-config="true" duration-ms="615" started-at="2019-11-23T19:24:17 EET" finished-at="2019-11-23T19:24:18 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="RemoveTheBook()[pri:3, instance:BigSelenium.test.BigHomeTaskTest@185d8b6]" name="RemoveTheBook" duration-ms="3377" started-at="2019-11-23T19:24:18 EET" finished-at="2019-11-23T19:24:21 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveTheBook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:BigSelenium.test.BigHomeTaskTest@185d8b6]" name="tearDown" is-config="true" duration-ms="67" started-at="2019-11-23T19:24:21 EET" finished-at="2019-11-23T19:24:21 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- BigSelenium.test.BigHomeTaskTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
